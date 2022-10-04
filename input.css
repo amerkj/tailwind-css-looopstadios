@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+#hero {
+  background-image: url('https://thumbsnap.com/KyfbG4Vw');
+
+}
+    @media (max-width: 567px){
+        #hero {
+            background-image: url('https://thumbsnap.com/8MsasHvE');
+            background-position: center ;
+            
+        }
+    }
